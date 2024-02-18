@@ -1,5 +1,4 @@
-#!/bin/bash
-
 cd git-practice-04
-git pull --all
+git fetch
 git checkout update1
+

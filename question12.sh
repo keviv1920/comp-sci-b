@@ -1,4 +1,4 @@
 git checkout branch2
-git stash apply
-git add file4
-git commit -m "Added file4 to branch 2"
+git stash pop
+git add .
+git commit -m "Restoring and commiting changes on branch2"
